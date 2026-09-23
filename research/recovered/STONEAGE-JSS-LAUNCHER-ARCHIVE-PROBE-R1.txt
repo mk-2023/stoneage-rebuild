@@ -10,7 +10,7 @@ AVAIL|requested=20010531|available=1|timestamp=20010503013834|status=200|snapsho
 AVAIL|requested=20010630|available=1|timestamp=20010709041951|status=200|snapshot=http://web.archive.org/web/20010709041951/http://www.titan.co.jp:80/stoneage/stoneage.exe
 AVAIL|requested=20010701|available=1|timestamp=20010709041951|status=200|snapshot=http://web.archive.org/web/20010709041951/http://www.titan.co.jp:80/stoneage/stoneage.exe
 AVAIL|requested=20010731|available=1|timestamp=20010709041951|status=200|snapshot=http://web.archive.org/web/20010709041951/http://www.titan.co.jp:80/stoneage/stoneage.exe
-AVAIL|requested=20010815|available=1|timestamp=20010709041951|status=200|snapshot=http://web.archive.org/web/20010709041951/http://www.titan.co.jp:80/stoneage/stoneage.exe
+AVAIL|requested=20010815|available=0
 COUNT|candidate_snapshots|4
 SNAPSHOT|timestamp=20010503013834|source=cdx|status=200|mime=application/octet-stream|length=17408|digest=IPKPAOFMUBOQKWYPLHFME36X7LSNXQEZ|original=http://www.titan.co.jp:80/stoneage/stoneage.exe
 FETCH|timestamp=20010503013834|status=206|bytes=217088|mz=1|pe=1|content_type=application/octet-stream|final=https://web.archive.org/web/20010503013834id_/http://www.titan.co.jp:80/stoneage/stoneage.exe
