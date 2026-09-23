@@ -12,12 +12,23 @@ COUNT|root_cdx_queries_succeeded|0
 COUNT|root_cdx_queries_failed|6
 COUNT|root_availability_queries_succeeded|24
 COUNT|root_availability_queries_failed|0
-COUNT|root_availability_hits|13
-COUNT|interesting_links|11
+COUNT|root_availability_hits|22
+COUNT|interesting_links|96
 COUNT|early_interesting_links|0
-COUNT|later_candidate_links|11
+COUNT|later_candidate_links|96
 COUNT|early_download_links|0
 COUNT|later_candidate_download_links|0
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/CP_site/stoneage/board/?BBSMode=stone_notice|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/CP_site/stoneage/board/Index.asp?BBSMode=stone_guide|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/|이메일주소 무단수집거부
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/SshotBoard/View.asp?Game=stoneage&SearchKey=&SearchKWord=&Page=3&BBSNo=523899&Ref=523899&Step=0&Level=0|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/SshotBoard/View.asp?Game=stoneage&SearchKey=&SearchKWord=&Page=5&BBSNo=523602&Ref=523602&Step=0&Level=0|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/SshotBoard/View.asp?Game=stoneage&SearchKey=&SearchKWord=&Page=6&BBSNo=523524&Ref=523524&Step=0&Level=0|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/SshotBoard/index.asp|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/down/down_debugler.asp|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/down/down_load.asp|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/guide/guide_tip.asp|
+LATER_LINK|later|game3-cp-site-root|20060401063012|interest|http://game3.netmarble.net/cp_site/stoneage/shop/shop_main.asp|
 LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.netmarble.net/CP_site/stoneage/board/?BBSMode=stone_notice|
 LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.netmarble.net/CP_site/stoneage/board/Index.asp?BBSMode=stone_guide|
 LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.netmarble.net/cp_site/stoneage/SshotBoard/View.asp?Game=stoneage&SearchKey=&SearchKWord=&Page=3&BBSNo=523899&Ref=523899&Step=0&Level=0|
@@ -29,25 +40,96 @@ LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.n
 LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.netmarble.net/cp_site/stoneage/guide/guide_tip.asp|
 LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.netmarble.net/cp_site/stoneage/index.asp|이메일주소 무단수집거부
 LATER_LINK|later|game3-cp-site-root-index|20060406025428|interest|http://game3.netmarble.net/cp_site/stoneage/shop/shop_main.asp|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/|nshock
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/|qkreorms96
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/|rlawogns0123
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/|roehf55
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/###|New Item
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/###|logo3
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6238758|35~50까지 초광렙이다.
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6520421|레벨별 사냥터,돈버는방법 샴기르기준
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6535141|돈버는법
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6584007|스톤 게임속 24시간은 몇분?
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6584014|만모스버스 시간표
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/captureboard/BbsListView.asp|전체보기
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/fanarthall/BbsContentView.asp?seq=1020926&pageno=10&searchstring=&searchstringoptionval=1&searchmonth=3|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/fanarthall/BbsContentView.asp?seq=1020926&pageno=10&searchstring=&searchstringoptionval=1&searchmonth=3|2008 스톤온감신춘문예의대상 작품
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/fanarthall/BbsListView.asp|전체보기
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1020928&pageno=57&searchstring=&searchstringoptionval=1&searchmonth=3"|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1020928&pageno=57&searchstring=&searchstringoptionval=1&searchmonth=3"|로빈양의만화세상
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100019|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100019|도우미 놀놀...[2]
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100022|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100022|마지막댄스춤...[0]
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=974757|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=974757|하트표우푸&...[20]
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsListView.asp|전체보기
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Shop/newitemList.asp|전체보기
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Support/Debug/down_debugler.asp|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/Support/Download/down_load.asp|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/guide/gameintro.asp|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/guide/info/bbslistview.asp|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/guide/tip/bbslistview.asp|"캐릭터 이동 팁"에 대해알아볼까요?
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/guide/worldintro.asp|
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/news/event/BbsContentView.asp?seq=25158|스톤에이지 리뉴얼 이벤트 안내
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/news/event/BbsContentView.asp?seq=25194|★2009년 겨울 듀얼대회★ 안내
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/news/notice/BbsContentView.asp?seq=25144|1월 8일 테스트 서버 점검 안내.
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/news/notice/BbsContentView.asp?seq=25150|9차 불법 프로그램 처벌 안내
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/news/notice/BbsContentView.asp?seq=25176|1월 12일 전체서버 점검안내.
+LATER_LINK|later|game3-root|20090113083556|interest|http://game3.netmarble.net/stoneage/news/notice/bbslistview.asp|전체보기
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/fanarthall/BbsContentView.asp?seq=1020926&pageno=10&searchstring=&searchstringoptionval=1&searchmonth=3|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/fanarthall/BbsContentView.asp?seq=1020926&pageno=10&searchstring=&searchstringoptionval=1&searchmonth=3|2008 스톤온감신춘문예의대상 작품
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1020928&pageno=57&searchstring=&searchstringoptionval=1&searchmonth=3"|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1020928&pageno=57&searchstring=&searchstringoptionval=1&searchmonth=3"|로빈양의만화세상
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://game3.netmarble.net/stoneage/guide/info/bbslistview.asp|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/|nshock
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/|qkreorms96
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/|rlawogns0123
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/|roehf55
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/###|New Item
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/###|logo3
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6238758|35~50까지 초광렙이다.
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6520421|레벨별 사냥터,돈버는방법 샴기르기준
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6535141|돈버는법
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6584007|스톤 게임속 24시간은 몇분?
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/captureboard/BbsContentView.asp?seq=6584014|만모스버스 시간표
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/captureboard/BbsListView.asp|전체보기
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/fanarthall/BbsListView.asp|전체보기
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100019|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100019|도우미 놀놀...[2]
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100022|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=1100022|마지막댄스춤...[0]
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=974757|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsContentView.asp?seq=974757|하트표우푸&...[20]
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Community/screenshot/BbsListView.asp|전체보기
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Shop/newitemList.asp|전체보기
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Support/Debug/down_debugler.asp|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/Support/Download/down_load.asp|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/guide/gameintro.asp|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/guide/tip/bbslistview.asp|"캐릭터 이동 팁"에 대해알아볼까요?
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/guide/worldintro.asp|
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/news/event/BbsContentView.asp?seq=25158|스톤에이지 리뉴얼 이벤트 안내
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/news/event/BbsContentView.asp?seq=25194|★2009년 겨울 듀얼대회★ 안내
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/news/notice/BbsContentView.asp?seq=25144|1월 8일 테스트 서버 점검 안내.
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/news/notice/BbsContentView.asp?seq=25150|9차 불법 프로그램 처벌 안내
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/news/notice/BbsContentView.asp?seq=25176|1월 12일 전체서버 점검안내.
+LATER_LINK|later|game3-root-www|20090113083556|interest|http://www.game3.netmarble.net/stoneage/news/notice/bbslistview.asp|전체보기
 COUNT|wayback_index_queries_succeeded|0
 COUNT|wayback_index_queries_failed|6
 COUNT|arquivo_index_queries_succeeded|6
 COUNT|arquivo_index_queries_failed|0
-ERROR|brand-root|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fstoneage.netmarble.net%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: The read operation timed out
-ERROR|brand-root-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.stoneage.netmarble.net%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: HTTP Error 503: Service Unavailable
-ERROR|brand-root@20160422050734|RuntimeError|request failed: https://web.archive.org/web/20160422050734id_/http://stoneage.netmarble.net/: <urlopen error timed out>
+ERROR|brand-root|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fstoneage.netmarble.net%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error timed out>
+ERROR|brand-root-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.stoneage.netmarble.net%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error timed out>
+ERROR|brand-root@20160422050734|RuntimeError|request failed: https://web.archive.org/web/20160422050734id_/http://stoneage.netmarble.net/: <urlopen error _ssl.c:983: The handshake operation timed out>
 ERROR|game3-cp-site-root|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fgame3.netmarble.net%2Fcp_site%2Fstoneage%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error timed out>
-ERROR|game3-cp-site-root-index|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fgame3.netmarble.net%2Fcp_site%2Fstoneage%2Findex.asp&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error _ssl.c:983: The handshake operation timed out>
-ERROR|game3-cp-site-root@20060401063012|RuntimeError|request failed: https://web.archive.org/web/20060401063012id_/http://game3.netmarble.net/cp_site/stoneage/: <urlopen error timed out>
+ERROR|game3-cp-site-root-index|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fgame3.netmarble.net%2Fcp_site%2Fstoneage%2Findex.asp&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error timed out>
 ERROR|game3-root|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fgame3.netmarble.net%2Fstoneage%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error timed out>
 ERROR|game3-root-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.game3.netmarble.net%2Fstoneage%2F&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=500: <urlopen error timed out>
-ERROR|game3-root-www@20090113083556|RuntimeError|request failed: https://web.archive.org/web/20090113083556id_/http://www.game3.netmarble.net/stoneage/: <urlopen error timed out>
-ERROR|game3-root@20090113083556|RuntimeError|request failed: https://web.archive.org/web/20090113083556id_/http://game3.netmarble.net/stoneage/: <urlopen error timed out>
 ERROR|wayback:brand|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=stoneage.netmarble.net%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: <urlopen error timed out>
-ERROR|wayback:brand-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=www.stoneage.netmarble.net%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: The read operation timed out
+ERROR|wayback:brand-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=www.stoneage.netmarble.net%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: <urlopen error timed out>
 ERROR|wayback:game3|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=game3.netmarble.net%2Fstoneage%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: The read operation timed out
-ERROR|wayback:game3-cp-site|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=game3.netmarble.net%2Fcp_site%2Fstoneage%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: The read operation timed out
-ERROR|wayback:game3-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=www.game3.netmarble.net%2Fstoneage%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: The read operation timed out
+ERROR|wayback:game3-cp-site|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=game3.netmarble.net%2Fcp_site%2Fstoneage%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: HTTP Error 503: Service Unavailable
+ERROR|wayback:game3-www|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=www.game3.netmarble.net%2Fstoneage%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: HTTP Error 503: Service Unavailable
 ERROR|wayback:game3-www-cp-site|RuntimeError|request failed: https://web.archive.org/cdx/search/cdx?url=www.game3.netmarble.net%2Fcp_site%2Fstoneage%2F%2A&from=2003&to=2004&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest%2Clength&filter=statuscode%3A200&limit=5000&collapse=urlkey: The read operation timed out
-COUNT|errors|16
-RESULT|PARTIAL_NO_HITS|early_hits=0|later_candidates=11|index_queries_succeeded=30|index_queries_failed=12
+COUNT|errors|13
+RESULT|PARTIAL_NO_HITS|early_hits=0|later_candidates=96|index_queries_succeeded=30|index_queries_failed=12
